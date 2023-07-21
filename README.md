@@ -14,8 +14,7 @@ Google Cloud Platform
 2. Compute Instance: A Compute Instance in Google Cloud Platform was utilized to execute the data analytics tasks and run the Python code. It provides a virtual machine environment with configurable resources, enabling efficient processing of large datasets and running complex computations.
 3. BigQuery: BigQuery was used as the data warehouse for storing and querying the Uber trip records dataset. It offers a serverless and highly scalable solution for analyzing large datasets with fast SQL queries. BigQuery simplifies data management and provides advanced analytics capabilities.
 4. Looker Studio: Looker Studio was utilized for data visualization and exploration. It enables the creation of interactive dashboards, reports, and visualizations based on the analyzed Uber data. Looker Studio helps to present data insights in a user-friendly and visually appealing manner, facilitating data-driven decision-making.
-
-Modern Data Pipeine Tool - https://www.mage.ai/
+5. Modern Data Pipeine Tool - https://www.mage.ai/
 
 ## Dataset Used
 TLC Trip Record Data
